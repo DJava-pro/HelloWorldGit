@@ -8,6 +8,7 @@ public class HelloGit {
 		
 		System.out.println(ruselt);
 		System.out.println("hello");
-		//Hello
+		
+		// подпишись на канал
 	}
 }
