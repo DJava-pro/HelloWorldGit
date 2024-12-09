@@ -7,7 +7,7 @@ public class HelloGit {
 		int ruselt = a + b;
 		
 		System.out.println(ruselt);
-		
+		System.out.println("hello");
 		
 	}
 }
