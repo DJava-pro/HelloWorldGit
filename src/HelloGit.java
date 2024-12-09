@@ -8,5 +8,10 @@ public class HelloGit {
 			System.out.println("HelloGit");
 		}
 		
+		// Hello
+		
+		String s = "Git";
+		System.out.println(s + " Hello");
+		
 	}
 }
