@@ -13,5 +13,6 @@ public class HelloGit {
 		String s = "Git";
 		System.out.println(s + " Hello");
 		
+		// привет
 	}
 }
